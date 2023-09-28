@@ -161,3 +161,4 @@ cython_debug/
 
 # Kaggle key
 .kaggle/kaggle.json 
+data/
