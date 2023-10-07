@@ -161,4 +161,3 @@ cython_debug/
 
 # Kaggle key
 .kaggle/kaggle.json 
-data/submission.csv
